@@ -2227,3 +2227,12 @@ a.text-dark:hover, a.text-dark:focus {
 .owl-carousel button.owl-dot.active {
   background-color: #6C55F9;
 }
+
+.logo {
+    height : 34px;
+}
+
+.logo-footer {
+    height: 50px;
+    margin-bottom : 25px;
+}
