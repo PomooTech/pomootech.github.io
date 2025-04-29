@@ -22,10 +22,17 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400;500;600;700&display=swap");
 
+@font-face {
+    font-family: 'Jua';
+    src: url('../fonts/Jua-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 body {
-  font-family: "Work Sans", sans-serif;
-  line-height: 1.5;
-  color: #2D2B3A;
+    font-family: 'Jua', sans-serif;
+    line-height: 1.5;
+    color: #2D2B3A;
 }
 
 a {
