@@ -2252,3 +2252,7 @@ a.text-dark:hover, a.text-dark:focus {
     height: 45px;
     margin-bottom: 24px;
 }
+
+.card-height {
+    height: 272px;
+}
