@@ -1652,7 +1652,7 @@ a.text-dark:hover, a.text-dark:focus {
         width: 120px;
         height: 26px;
         line-height: 26px;
-        background-color: #0ac7f6;
+        background-color: #345b77;
         color: #fff;
         transform: rotate(45deg);
     }
@@ -1688,8 +1688,8 @@ a.text-dark:hover, a.text-dark:focus {
     }
 
     .card-pricing.active {
-        background-color: #6C55F9;
-        border-color: #5d47eb;
+        background-color: #ea465f;
+        border-color: #ea465f;
     }
 
         .card-pricing.active .header {
